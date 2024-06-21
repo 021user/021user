@@ -11,37 +11,35 @@ Currently Interested in:
     Secure software solutions
 
 💻 Tech Stack:
-<p align="center"><b>Languages</b></p>
-<p align="center">
+<div align="center">
+  <p><b>Languages</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,java,c,cpp,py,html,css,lua" />
   </a>
-</p>
-<p align="center"><b>Frameworks</b></p>
-<p align="center">
+</div>
+<div align="center">
+  <p><b>Frameworks</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=django,react" />
   </a>
-</p>
-<p align="center"><b>Tools</b></p>
-<p align="center">
+</div>
+<div align="center">
+  <p><b>Tools</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,oracle" />
   </a>
-</p>
-<p align="center"><b>Editors and IDEs</b></p>
-<p align="center">
+</div>
+<div align="center">
+  <p><b>Editors and IDEs</b></p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,idea,clion" />
   </a>
-</p>
+</div>
 📊 GitHub Stats:
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=021user&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
-</p>
-<p align="center">
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=021user&theme=blueberry&hide_border=false" />
-</p>
-<p align="center">
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=021user&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
+</div>
