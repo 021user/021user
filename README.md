@@ -1,6 +1,6 @@
 💫 About Me:
 
-👋 I'm Iyad M. Guesba, im a student with a passion for programming and cybersecurity from France. I've been programming for almost six years now (mainly in web).
+👋 I'm Iyad M. Guesba, a student with a passion for programming and cybersecurity from France. I've been programming for almost six years now (mainly in web).
 
 🌐 I am focused on developing secure software solutions 🔐, web development 🌐, software development 💻, and video game modding 🎮. I am actively seeking an apprenticeship where I can apply my skills while continuing to learn and grow professionally. 🚀
 Currently Interested in:
