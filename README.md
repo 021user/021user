@@ -36,6 +36,12 @@ Currently Interested in:
   </a>
 </p>
 📊 GitHub Stats:
-
-<br/>
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=021user&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=021user&theme=blueberry&hide_border=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=021user&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
